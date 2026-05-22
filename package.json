@@ -1,0 +1,21 @@
+{
+  "name": "plane-assistant-mcp",
+  "version": "1.0.0",
+  "description": "Servidor MCP para consultar proyectos de Plane en lenguaje natural desde Claude Code",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "plane-assistant-mcp": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["plane", "mcp", "claude", "project-management"],
+  "license": "MIT"
+}
