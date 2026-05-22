@@ -78,7 +78,8 @@ Escribe este archivo en `[home]/plane-mcp/package.json`:
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.0"
   },
-  "engines": { "node": ">=18.0.0" }
+  "engines": { "node": ">=18.0.0" },
+  "author": "Giovanni Trujillo"
 }
 ```
 

@@ -17,5 +17,6 @@
     "node": ">=18.0.0"
   },
   "keywords": ["plane", "mcp", "claude", "project-management"],
+  "author": "Giovanni Trujillo",
   "license": "MIT"
 }
